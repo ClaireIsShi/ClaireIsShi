@@ -7,9 +7,14 @@ I’m currently working on aspects related to long-context engineering, such as 
 I’m looking for help with any aspects in the field of DeepResearch training, including but not limited to fine-tuning methodologies, evaluation framework design, and practical deployment pipelines. If you also have any related research interests, please feel free to contact me:)
 
 How to reach me:
+
 geshi0405geshi@gmail.com
+
 23121732@bjtu.com
+
 shige.0405@bytedance.com
+
+You can reach me in any way.
 <!--
 **ClaireIsShi/ClaireIsShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
