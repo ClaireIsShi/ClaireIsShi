@@ -2,6 +2,12 @@
 
 I'm Ge Shi, a graduate student in Beijing Jiaotong University. I‘m recently working at ByteDance.
 
+- 🔭 I’m currently working on horizon-realted efficiency RL training, long-horizon post-eval.
+- 🌱 I’m currently learning full stage long-context & horizon training.
+- 🤔 I’m looking for help with your new idea!! :D
+- 💬 Ask me about Olivia Rodrigo and NewJeans (I love them!)
+- ⚡ Fun fact: I'm actualy an INTP.
+
 My E-mail:
 
 geshi0405geshi@gmail.com
@@ -21,12 +27,9 @@ You can reach me in any way.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on horizon-realted efficiency RL training, long-horizon post-eval.
+- 🌱 I’m currently learning full stage long-context & horizon training.
+- 🤔 I’m looking for help with your new idea!! :D
+- 💬 Ask me about Olivia Rodrigo and NewJeans (I love them!)
+- ⚡ Fun fact: I'm actualy an INTP.
 -->
