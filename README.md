@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ge Shi, a graduate student in Beijing Jiaotong University. I‘m recently working at ByteDance.
+I'm Ge Shi. I hold a PhD from the Beijing Institute of China and a Master’s degree in Statistics from Beijing Jiaotong University. I previously worked at ByteDance, and I am currently with Huawei.
 
 - 🔭 I’m currently working on horizon-related efficient RL training and long-horizon post-evaluation.
 - 🌱 I’m currently learning full-stage long-context and horizon training.
