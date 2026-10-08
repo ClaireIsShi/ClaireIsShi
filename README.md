@@ -12,9 +12,7 @@ My E-mail:
 
 geshi0405geshi@gmail.com
 
-23121732@bjtu.com
-
-shige.0405@bytedance.com
+shige@moonshot.ai
 
 Wechat:
 
