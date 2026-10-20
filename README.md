@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ge Shi. I am a PhD student at Beijing Institute of Technology and hold a Master’s degree in Statistics from Beijing Jiaotong University. I previously worked at ByteDance, Huawei, Hillhouse, recently work at MoonshotAi, KIMI team.
+I'm Ge Shi. I am a PhD student at Beijing Institute of Technology and hold a Master’s degree in Statistics from Beijing Jiaotong University. I previously worked at ByteDance, Huawei, Hillhouse, recently work at MoonshotAi, KIMI coding group.
 
 - 🔭 I’m currently working on horizon-related efficient RL training and long-horizon post-evaluation, all for coding tasks:).
 - 🌱 I’m currently learning full-stage long-context and horizon training.
